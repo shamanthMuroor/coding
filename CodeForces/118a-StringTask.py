@@ -1,5 +1,3 @@
-#import string
-
 str = input().lower()
 vowel = ['a', 'e', 'i', 'o', 'u', 'y'] #y is also included in the question for some reason
 res = ""
