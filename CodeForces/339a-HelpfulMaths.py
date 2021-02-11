@@ -1,3 +1,5 @@
+#106639522	Feb/06/2021 09:28UTC+5.5	shamanthmuroor	339A - Helpful Maths	Python 3	Accepted	124 ms	0 KB
+
 """ Question 339a: Helpful Maths
 The teacher has written down the sum of multiple numbers. 
 Pupils should calculate the sum. To make the calculation easier, 

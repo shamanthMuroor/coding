@@ -1,3 +1,5 @@
+#106482904	Feb/04/2021 23:45UTC+5.5	shamanthmuroor	1A - Theatre Square	Python 3	Accepted	61 ms	0 KB
+
 """ Question 1a: Theatre Square
 Theatre Square in the capital city of Berland has a rectangular 
 shape with the size n × m meters. On the occasion of the city's 

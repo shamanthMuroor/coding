@@ -1,3 +1,5 @@
+#106616505	Feb/05/2021 23:35UTC+5.5	shamanthmuroor	118A - String Task	Python 3	Accepted	124 ms	0 KB
+
 """ Question 118a: String Task
 Petya started to attend programming lessons. On the first lesson 
 his task was to write a simple program. The program was supposed 

@@ -1,3 +1,5 @@
+#106694298	Feb/06/2021 23:18UTC+5.5	shamanthmuroor	96A - Football	Python 3	Accepted	124 ms	0 KB
+
 """ Question 96a: Football
 Petya loves football very much. One day, as he was 
 watching a football match, he was writing the players' 

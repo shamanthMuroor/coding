@@ -1,5 +1,6 @@
-""" NOT COMPLETE !!! 
-Question 1480b: The Great Hero
+#106924116	Feb/08/2021 21:38UTC+5.5	shamanthmuroor	1480B - The Great Hero	Python 3	Accepted	1513 ms	9100 KB
+
+""" Question 1480b: The Great Hero
 The great hero guards the country where Homer lives. The hero has 
 attack power A and initial health value B. There are n monsters in 
 front of the hero. The i-th monster has attack power ai and initial 
@@ -17,7 +18,7 @@ the great hero can kill all the monsters (even if the great hero
 himself is dead after killing the last monster). """
 
 import math
-
+ 
 testcase = int(input())
 for _ in range(testcase):
     heroPower, heroHealth, noMonsters = map(int, input().split())
@@ -28,7 +29,7 @@ for _ in range(testcase):
     for i in range(noMonsters):
         monster.append((monsPower[i], monsHealth[i]))
     monster.sort()
-
+ 
     won = "YES"
     for i in range(len(monster)):
         attack, life = monster[i]

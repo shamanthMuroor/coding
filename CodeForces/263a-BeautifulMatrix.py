@@ -1,3 +1,5 @@
+#106615912	Feb/05/2021 23:30UTC+5.5	shamanthmuroor	263A - Beautiful Matrix	Python 3	Accepted	124 ms	0 KB
+
 """ Question 263a: Beautiful Matrix 
 You've got a 5 × 5 matrix, consisting of 24 zeroes and a single number one. 
 Let's index the matrix rows by numbers from 1 to 5 from top to bottom, 

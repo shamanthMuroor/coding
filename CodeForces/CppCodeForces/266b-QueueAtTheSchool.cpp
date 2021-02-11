@@ -1,13 +1,8 @@
-// Problem 266b: Queue At the School
-// During the break the schoolchildren, boys and girls, formed 
-// a queue of n people in the canteen. Initially the children 
-// stood in the order they entered the canteen. However, after 
-// a while the boys started feeling awkward for standing in front 
-// of the girls in the queue and they started letting the 
-// girls move forward each second.
+//107119822	Feb/11/2021 16:51UTC+5.5	shamanthmuroor	266B - Queue at the School	GNU C++17	Accepted	62 ms	0 KB
 
-// Let's describe the process more precisely. Let's say that 
-// the positions in the queue are sequentially numbered by integers 
+// Problem 266b: Queue At the School
+
+// The positions in the queue are sequentially numbered by integers 
 // from 1 to n, at that the person in the position number 1 is 
 // served first. Then, if at time x a boy stands on the i-th 
 // position and a girl stands on the (i + 1)-th position, then 

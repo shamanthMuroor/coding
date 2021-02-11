@@ -1,3 +1,5 @@
+#106479062	Feb/04/2021 22:55UTC+5.5	shamanthmuroor	71A - Way Too Long Words	Python 3	Accepted	62 ms	0 KB
+
 """ Question 71a: Way Too Long Words
 Let's consider a word too long, if its length is strictly more than 10 characters. 
 All too long words should be replaced with a special abbreviation.
